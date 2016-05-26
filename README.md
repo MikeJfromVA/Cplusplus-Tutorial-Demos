@@ -1,4 +1,4 @@
-# C-Tutorial-Demos
+# Cplusplus-Tutorial-Demos
 Reference code for cool, weird, or new features of C++ for demonstration purposes
 
 This repository has grown organically as I add codes to experiment due to requests from students, curiousity, or the need to puzzle out code found online or in projects.
@@ -42,8 +42,8 @@ $ ./accessors_mutators
 
 Ready for the codes? OK, here we go! :bowtie:
 
-* abstract.cpp
-   This is fun
+* abstract.cpp Lessons in abstract classes, their children, and references.
+   Failing to define a function results in an error, unless it is a pure virtual function, which results in an abstract class. Abstract classes must not be initialized, though you can hold references to their children using the abstract parent types. This is, in fact, the purpose of abstract classes
         
 
 
