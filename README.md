@@ -24,4 +24,19 @@ int main(int argc, char**argv) {
 }
 ```
 
+Note that in the code above, the comment //moo.x=0 is just as important to the lesson, being that struct members are public by default while class members are public by default.
 
+Compilation should work on the command line on Linux or Mac. It may work on a Windows installation with Visual Studio installed using NMake.
+> $ ls Makefile 
+> Makefile
+> $ make clean
+> rm -f abstract ...
+> $ make
+> c++ -o accessors_mutators accessors_mutators.cpp
+> $ ./accessors_mutators 
+> 10
+> 10
+
+Ready for the codes? OK, here we go! :bowtie:
+
+* 
