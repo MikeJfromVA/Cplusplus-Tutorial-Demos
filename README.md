@@ -43,8 +43,7 @@ $ ./accessors_mutators
 Ready for the codes? OK, here we go! :bowtie:
 
 * abstract.cpp
-
-        This is fun
+   This is fun
         
 
 
